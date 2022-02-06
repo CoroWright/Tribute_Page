@@ -4,7 +4,7 @@ I'm currently learning html & css on freecodecamp.org
 
 the first project is to create a tribute page.
 
-below my tribute page my include:
+My tribute page must include:
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
